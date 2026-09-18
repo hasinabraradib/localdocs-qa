@@ -10,7 +10,8 @@
   "scripts": {
     "check": "node src/check.js",
     "ingest": "node src/ingest.js",
-    "ask": "node src/ask.js"
+    "ask": "node src/ask.js",
+    "chat": "node src/chat.js"
   },
   "dependencies": {
     "@qvac/sdk": "^0.19.1"
