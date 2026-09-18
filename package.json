@@ -1,0 +1,16 @@
+{
+  "name": "localdocs-qa",
+  "version": "0.1.0",
+  "description": "Offline Q&A over your own .md/.txt documents, powered by the QVAC SDK (on-device RAG + local LLM).",
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.17"
+  },
+  "scripts": {
+    "check": "node src/check.js"
+  },
+  "dependencies": {
+    "@qvac/sdk": "^0.19.1"
+  }
+}
