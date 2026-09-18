@@ -29,7 +29,7 @@ Ask questions about your own notes — 100% offline, powered by Tether's QVAC SD
 ## Install
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/hasinabraradib/localdocs-qa.git
 cd localdocs-qa
 npm install
 ```
